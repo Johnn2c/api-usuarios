@@ -13,7 +13,7 @@ API REST simples para gerenciamento de usuários.
 - Atualizar usuário
 - Deletar usuário
 
-## ▶ Como rodar
+## Como rodar
 
 ```bash
 pip install -r requirements.txt
